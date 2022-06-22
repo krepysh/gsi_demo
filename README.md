@@ -1,6 +1,9 @@
 # gsi_demo
 Demo example implementation of Sign-in with google
 
+# Configuration
+You need to provide GOOGLE_CLIENT_ID in src/config.json. For retrive it, [register application](https://console.cloud.google.com/apis/credentials).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
