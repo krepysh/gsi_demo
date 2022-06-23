@@ -1,5 +1,5 @@
 # gsi_demo
-Demo example implementation of Sign-in with google
+Demo example implementation of Sign-in with google. It do nothing except retrieving JWT ID from google and dumping it to console.
 
 # Configuration
 You need to provide GOOGLE_CLIENT_ID in src/config.json. For retrive it, [register application](https://console.cloud.google.com/apis/credentials).
